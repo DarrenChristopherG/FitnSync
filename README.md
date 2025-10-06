@@ -9,7 +9,7 @@
 
 FitnSync is a full-stack web application designed to help users track their fitness journey. It features secure user authentication, a browsable library of exercises, and a detailed workout logging system.
 
-## Features
+## Features 
 
 * **Secure Authentication:** User signup and login system using JWT (JSON Web Tokens).
 * **Exercise Library:** Browse a master list of exercises with details and categories.
