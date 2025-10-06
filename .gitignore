@@ -1,0 +1,30 @@
+# General / Operating System
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Configuration
+.vscode/
+.idea/
+
+# Node.js Dependencies
+# Ignore node_modules in both the client and server folders
+/client/node_modules
+/server/node_modules
+
+# Environment Variables
+# NEVER commit your secrets file.
+/server/.env
+
+# Vue.js specific environment files
+/client/.env.local
+/client/.env.*.local
+
+# Frontend Build & Output Folders
+# These are generated when you build the Vue app for production
+/client/dist
+/client/coverage/
+
+# Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
